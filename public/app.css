@@ -1,0 +1,28 @@
+body {
+    font-family: Futura;
+    text-align: center;
+    background: #5D4157;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A8CABA, #5D4157);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A8CABA, #5D4157); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    height: 50px;
+    text-align: center;
+    background-color: black ;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+tr:hover {background-color: #f5f5f5;}
