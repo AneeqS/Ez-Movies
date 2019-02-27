@@ -1,4 +1,8 @@
 # Ez-Movies
 Web Application to display data on Movies.
 
-Used: HTML5, CSS3, JavaScript (Node.js, Express.js)
+* Tech Stack
+    * JavaScript (Node.js)
+    * MongoDB
+    * HTML5
+    * CSS3
